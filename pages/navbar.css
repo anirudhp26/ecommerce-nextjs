@@ -108,6 +108,7 @@ body {
     padding: 0 2rem;
     justify-content: center;
     color: white;
+    cursor: pointer;
     flex-direction: column;
 }
 
@@ -148,7 +149,7 @@ body {
         background-color: rgb(91, 91, 91);
         transition: 0.5s;
     }
-    
+
     .topbar-handle {
         top: -10%;
     }
